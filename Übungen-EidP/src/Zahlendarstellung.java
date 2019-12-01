@@ -2,10 +2,10 @@ import java.util.Arrays;
 
 public class Zahlendarstellung {
 
-//	public static void main(String[] args) {
-//		System.out.println(Arrays.toString(ermittleZiffern(1234,16)));
-//
-//	}
+	public static void main(String[] args) {
+		System.out.println(Arrays.toString(ermittleZiffern(1234,16)));
+
+	}
 	
 	
 	
