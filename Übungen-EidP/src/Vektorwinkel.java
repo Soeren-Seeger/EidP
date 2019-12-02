@@ -1,4 +1,8 @@
-
+/**
+ * Ü7A10
+ * Berech. der Fläche eines Poligons
+ * @author Sören Seeger
+ */
 public class Vektorwinkel {
 
 	public static double winkel(double[] a, double[] b) {
