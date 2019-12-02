@@ -1,3 +1,9 @@
+/**
+ * Ü6A8
+ * Inhalt vs Ref. von Arrays
+ * @author Sören Seeger
+ */
+
 public class Vertauschen {
 
 //	public static void main(String[] args) {
