@@ -1,6 +1,6 @@
 /**
  * Ü7A10
- * Berech. der Fläche eines Poligons
+ * Berech. des Winkels zw. 2 Vektoren
  * @author Sören Seeger
  */
 public class Vektorwinkel {
