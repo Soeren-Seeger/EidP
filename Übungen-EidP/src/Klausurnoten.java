@@ -1,3 +1,8 @@
+/**
+ * Ü8A5
+ * Verwalten von Klausurnoten
+ * @author Sören Seeger
+ */
 public class Klausurnoten {
 
 //	public static void main (String[] args) {
