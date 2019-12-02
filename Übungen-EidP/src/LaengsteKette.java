@@ -1,3 +1,9 @@
+/**
+ * Ü5A8
+ * Suchen der längten Folge gleicher Zahlen (Eing. Scanner)
+ * @author Sören Seeger
+ */
+
 import java.util.Scanner;
 
 public class LaengsteKette {
