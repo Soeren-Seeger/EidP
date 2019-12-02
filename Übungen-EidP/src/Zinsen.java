@@ -1,4 +1,8 @@
-
+/**
+ * Ü4A5
+ * Zinsberrechnung
+ * @author Sören Seeger
+ */
 public class Zinsen {
 
 	public static void main(String[] args) {
