@@ -1,3 +1,9 @@
+/**
+ * Ü5A7
+ * Minuten auf ein Datum addieren
+ * @author Sören Seeger
+ */
+
 import java.util.Scanner;
 
 public class DatumErweiterung {
