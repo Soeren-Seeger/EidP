@@ -1,3 +1,9 @@
+/**
+ * Ü6A8
+ * IBAN Berrechnung
+ * @author Sören Seeger
+ */
+
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.Scanner;
@@ -15,8 +21,7 @@ public class IbanBerechnen {
 //		String blz = sc.next();
 //		String kn = sc.next();
 //		sc.close();
-		
-		
+
 		JFrame Frame = new JFrame();
         Frame.setTitle("IBAN berrechner");
         Frame.setSize(900, 100);
