@@ -1,6 +1,6 @@
 /**
  * Ü6A8
- * IBAN Berrechnung
+ * IBAN Berrechnung (Swing GUI)
  * @author Sören Seeger
  */
 
