@@ -1,3 +1,9 @@
+/**
+ * Ü9A2
+ * Basis-n Umrechnung von Int
+ * @author Sören Seeger
+ */
+
 import java.util.Arrays;
 
 public class Zahlendarstellung {
