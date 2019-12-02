@@ -1,5 +1,5 @@
 /**
- * Ü6A8
+ * Ü8A6
  * Inhalt vs Ref. von Arrays
  * @author Sören Seeger
  */
