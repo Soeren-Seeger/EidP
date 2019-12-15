@@ -39,7 +39,7 @@ public class WebShop {
 			ausgabe = ( "Rechnung fuer unseren guten Kunden " + kunde.vorname + " " + kunde.nachname + " , Preisnachlass "+ (rabatt*100) +"%: \n"  );
 			
 		}else {
-			ausgabe = ( "Rechnung fuer " + kunde.vorname + " " + kunde.nachname + " : \n"  );
+			ausgabe = ( "Rechnung fuer " + kunde.vorname + " " + kunde.nachname + ": \n"  );
 			rabatt = 0;
 		}
 		
