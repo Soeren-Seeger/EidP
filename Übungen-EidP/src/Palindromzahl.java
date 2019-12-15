@@ -1,3 +1,8 @@
+/**
+ * Ü6A9
+ * Überprüfung eines Int auf Palindrom-Eig.
+ * @author Sören Seeger
+ */
 public class Palindromzahl {
 
 	public static void main(String[] args) {

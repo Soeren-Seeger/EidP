@@ -1,11 +1,17 @@
+/**
+ * Ü9A2
+ * Basis-n Umrechnung von Int
+ * @author Sören Seeger
+ */
+
 import java.util.Arrays;
 
 public class Zahlendarstellung {
 
-//	public static void main(String[] args) {
-//		System.out.println(Arrays.toString(ermittleZiffern(1234,16)));
-//
-//	}
+	public static void main(String[] args) {
+		System.out.println(Arrays.toString(ermittleZiffern(1234,16)));
+
+	}
 	
 	
 	

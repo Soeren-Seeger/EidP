@@ -1,3 +1,11 @@
+/**
+ * GgT-Berrechnung
+ * @author Sören Seeger
+ */
+
+
+
+
 import java.util.Scanner;
 
 public class Programm2 {

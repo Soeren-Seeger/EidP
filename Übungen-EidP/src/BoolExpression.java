@@ -1,3 +1,9 @@
+/**
+ * Logische Ausdrücke auswerten
+ * @author Sören Seeger
+ */
+
+
 import java.util.Scanner;
 
 public class BoolExpression {

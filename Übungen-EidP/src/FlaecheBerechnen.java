@@ -1,3 +1,9 @@
+/**
+ * Ü7A9
+ * Berech. der Fläche eines Poligons
+ * @author Sören Seeger
+ */
+
 public class FlaecheBerechnen {
 
 	public static float flaecheBerechnen(float[][] coord) {

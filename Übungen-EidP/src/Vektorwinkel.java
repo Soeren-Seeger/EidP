@@ -1,4 +1,8 @@
-
+/**
+ * Ü7A10
+ * Berech. des Winkels zw. 2 Vektoren
+ * @author Sören Seeger
+ */
 public class Vektorwinkel {
 
 	public static double winkel(double[] a, double[] b) {

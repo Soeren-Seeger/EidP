@@ -1,3 +1,8 @@
+/**
+ * A3Ü9
+ * Paritäts-Bit erstellen, prüfen
+ * @author Sören Seeger
+ */
 
 public class ParityBit {
 

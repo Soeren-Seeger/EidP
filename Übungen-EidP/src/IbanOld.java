@@ -1,3 +1,9 @@
+/**
+ * Ü6A8
+ * IBAN Berrechnung
+ * @author Sören Seeger
+ */
+
 import java.util.Scanner;
 
 public class IbanOld {
