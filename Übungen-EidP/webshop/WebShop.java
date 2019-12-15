@@ -36,7 +36,7 @@ public class WebShop {
 		
 		if(kunde instanceof GuterKunde) {
 			rabatt = ((GuterKunde)kunde).rabatt;
-			ausgabe = ( "Rechnung fuer unseren guten Kunden " + kunde.vorname + " " + kunde.nachname + " , Preisnachlass "+ (rabatt*100) +"%: \n"  );
+			ausgabe = ( "Rechnung fuer unseren guten Kunden " + kunde.vorname + " " + kunde.nachname + ", Preisnachlass "+ (rabatt*100) +"%: \n"  );
 			
 		}else {
 			ausgabe = ( "Rechnung fuer " + kunde.vorname + " " + kunde.nachname + ": \n"  );
