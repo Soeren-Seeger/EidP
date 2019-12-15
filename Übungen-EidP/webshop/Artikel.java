@@ -1,9 +1,9 @@
 
 public class Artikel {
 	
-	String name = "";
-	double preis = 0;
-	int bestand = 0;
+	public String name = "";
+	public double preis = 0;
+	public int bestand = 0;
 	
 	
 	public Artikel(String name, double preis, int bestand) {
@@ -11,5 +11,10 @@ public class Artikel {
 		this.name = name;
 		this.preis = preis;
 		this.bestand = bestand;
+	}
+	
+	
+	public String toString() {
+		return name;
 	}
 }
