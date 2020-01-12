@@ -1,6 +1,6 @@
 /**
  * Ü9A2
- * Basis-n Umrechnung von Int
+ * Basis-n Umrechnung von Integer
  * @author Sören Seeger
  */
 
