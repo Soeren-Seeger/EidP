@@ -17,9 +17,6 @@ public class MessReihe {
 	
 	void neueMessung(int u, double t, double d) throws CriticalValue, IllegalValue, TooMuchData{
 
-	
-	
-			
 			checkU.pruefen(u);
 			checkT.pruefen(t);
 			checkD.pruefen(d);

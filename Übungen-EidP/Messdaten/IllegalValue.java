@@ -1,5 +1,5 @@
 
-public class IllegalValue extends Exception {
+public class IllegalValue extends RuntimeException {
 
 	
 	IllegalValue (){
